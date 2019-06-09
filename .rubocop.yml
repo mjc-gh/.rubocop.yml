@@ -1,4 +1,5 @@
 AllCops:
+  DisplayCopNames: true
   TargetRubyVersion: 2.6
 
 Layout/MultilineMethodCallIndentation:
@@ -6,3 +7,9 @@ Layout/MultilineMethodCallIndentation:
 
 Layout/AlignArguments:
   EnforcedStyle: with_fixed_indentation
+
+Layout/LeadingCommentSpace:
+  Enabled: false
+
+Style/CaseEquality:
+  Enabled: false
