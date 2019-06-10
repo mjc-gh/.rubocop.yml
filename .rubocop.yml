@@ -8,8 +8,12 @@ Layout/MultilineMethodCallIndentation:
 Layout/AlignArguments:
   EnforcedStyle: with_fixed_indentation
 
+Layout/IndentFirstArrayElement:
+  EnforcedStyle: consistent
+
 Layout/LeadingCommentSpace:
   Enabled: false
+
 
 Style/CaseEquality:
   Enabled: false
